@@ -1,0 +1,14 @@
+{
+    "name": "jonwong/one-test",
+    "type": "library",
+    "description": "第一个测试版本",
+    "keywords": ["jonwong"],
+    "autoload": {
+        "psr-4": {
+            "JonWong\\" : "src/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.1"
+    }
+}
